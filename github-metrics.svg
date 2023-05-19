@@ -2276,7 +2276,7 @@ fix input unicodedecodererror</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.88m out of 115m users</span>
+                                    <span class="gh">ranked 1.77m out of 115m users</span>
                                 </div>
                                 <div class="text">Followed by 6 users</div>
                             </div>
@@ -2480,7 +2480,7 @@ fix input unicodedecodererror</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 May 2023, 09:26:42 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 19 May 2023, 10:24:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
