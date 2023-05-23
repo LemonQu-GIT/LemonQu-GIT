@@ -2141,7 +2141,7 @@ fix input unicodedecodererror</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 6.69m out of 116m users</span>
+                                    <span class="gh">ranked 6.70m out of 116m users</span>
                                 </div>
                                 <div class="text">Published 8 public repositories</div>
                             </div>
@@ -2179,7 +2179,7 @@ fix input unicodedecodererror</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 131k out of 403m repositories</span>
+                                    <span class="gh">ranked 140k out of 403m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 263 stars</div>
                             </div>
@@ -2502,7 +2502,7 @@ fix input unicodedecodererror</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 May 2023, 13:38:42 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 23 May 2023, 14:22:47 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
