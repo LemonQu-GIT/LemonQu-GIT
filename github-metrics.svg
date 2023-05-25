@@ -2111,7 +2111,7 @@ fix input unicodedecodererror</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 276k out of 403m repositories</span>
+                                    <span class="gh">ranked 284k out of 403m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 40 times</div>
                             </div>
@@ -2512,7 +2512,7 @@ fix input unicodedecodererror</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 May 2023, 22:16:58 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 25 May 2023, 22:38:36 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
