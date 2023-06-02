@@ -1430,67 +1430,67 @@
                             </div>
                             <div class="entry">
                                 <span class="value">258</span>
-                                <div class="bar" style="height: 4.875px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 4.836065573770491px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 21
                             </div>
                             <div class="entry">
                                 <span class="value">260</span>
-                                <div class="bar" style="height: 6.458333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 6.393442622950821px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 22
                             </div>
                             <div class="entry">
                                 <span class="value">267</span>
-                                <div class="bar" style="height: 12px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 11.844262295081966px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 23
                             </div>
                             <div class="entry">
                                 <span class="value">274</span>
-                                <div class="bar" style="height: 17.541666666666668px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 17.295081967213115px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 24
                             </div>
                             <div class="entry">
                                 <span class="value">280</span>
-                                <div class="bar" style="height: 22.291666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 21.9672131147541px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 25
                             </div>
                             <div class="entry">
                                 <span class="value">284</span>
-                                <div class="bar" style="height: 25.458333333333332px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 25.08196721311475px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 26
                             </div>
                             <div class="entry">
                                 <span class="value">286</span>
-                                <div class="bar" style="height: 27.041666666666668px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 26.639344262295083px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 27
                             </div>
                             <div class="entry">
                                 <span class="value">289</span>
-                                <div class="bar" style="height: 29.416666666666668px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 28.975409836065573px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 28
                             </div>
                             <div class="entry">
                                 <span class="value">293</span>
-                                <div class="bar" style="height: 32.583333333333336px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 32.09016393442623px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 29
                             </div>
                             <div class="entry">
                                 <span class="value">300</span>
-                                <div class="bar" style="height: 38.125px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 37.540983606557376px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 30
                             </div>
                             <div class="entry">
                                 <span class="value">309</span>
-                                <div class="bar" style="height: 45.25px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 44.549180327868854px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 31
                             </div>
                             <div class="entry">
                                 <span class="value">311</span>
-                                <div class="bar" style="height: 46.833333333333336px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 46.10655737704918px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 1
                                 <div class="bottom">June</div>
                             </div>
                             <div class="entry">
-                                <span class="value">315</span>
+                                <span class="value">316</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 2
                             </div>
@@ -1567,8 +1567,8 @@
                                 <div class="bottom">June</div>
                             </div>
                             <div class="entry">
-                                <span class="value">+4</span>
-                                <div class="bar" style="height: 22.22222222222222px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">+5</span>
+                                <div class="bar" style="height: 27.77777777777778px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 2
                             </div>
                         </div>
@@ -1717,7 +1717,7 @@ model <span class="token operator">=</span> AutoModel<span class="token punctuat
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="67.32323232323233 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="68.88888888888889 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1748,9 +1748,9 @@ model <span class="token operator">=</span> AutoModel<span class="token punctuat
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 246k out of 405m repositories</span>
+                                    <span class="gh">ranked 254k out of 405m repositories</span>
                                 </div>
-                                <div class="text">Maintaining or created a repository which has been forked 44 times</div>
+                                <div class="text">Maintaining or created a repository which has been forked 45 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1803,7 +1803,7 @@ model <span class="token operator">=</span> AutoModel<span class="token punctuat
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="48.0980980980981 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="48.25325325325325 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1826,9 +1826,9 @@ model <span class="token operator">=</span> AutoModel<span class="token punctuat
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 122k out of 405m repositories</span>
+                                    <span class="gh">ranked 121k out of 405m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 311 stars</div>
+                                <div class="text">Maintaining a repository with 312 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2149,7 +2149,7 @@ model <span class="token operator">=</span> AutoModel<span class="token punctuat
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Jun 2023, 22:38:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 2 Jun 2023, 23:17:58 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
