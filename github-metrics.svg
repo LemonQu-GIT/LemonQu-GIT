@@ -1401,18 +1401,18 @@
                         <h3>Total stargazers</h3>
                         <div class="chart-bars">
                             <div class="entry">
-                                <span class="value">530</span>
+                                <span class="value">529</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 8
                                 <div class="bottom">Aug.</div>
                             </div>
                             <div class="entry">
-                                <span class="value">531</span>
+                                <span class="value">530</span>
                                 <div class="bar" style="height: 8.4375px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 9
                             </div>
                             <div class="entry">
-                                <span class="value">533</span>
+                                <span class="value">532</span>
                                 <div class="bar" style="height: 20.312499999999996px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 10
                             </div>
@@ -1422,7 +1422,7 @@
                                 11
                             </div>
                             <div class="entry">
-                                <span class="value">534</span>
+                                <span class="value">533</span>
                                 <div class="bar" style="height: 26.25px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 12
                             </div>
@@ -1437,7 +1437,7 @@
                                 14
                             </div>
                             <div class="entry">
-                                <span class="value">535</span>
+                                <span class="value">534</span>
                                 <div class="bar" style="height: 32.1875px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 15
                             </div>
@@ -1452,7 +1452,7 @@
                                 17
                             </div>
                             <div class="entry">
-                                <span class="value">536</span>
+                                <span class="value">535</span>
                                 <div class="bar" style="height: 38.125px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 18
                             </div>
@@ -1462,12 +1462,12 @@
                                 19
                             </div>
                             <div class="entry">
-                                <span class="value">537</span>
+                                <span class="value">536</span>
                                 <div class="bar" style="height: 44.0625px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 20
                             </div>
                             <div class="entry">
-                                <span class="value">538</span>
+                                <span class="value">537</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 21
                             </div>
@@ -1619,7 +1619,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 137k out of 51m repositories</span>
+                                    <span class="gh">ranked 137k out of 50m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 86 times</div>
                             </div>
@@ -1666,7 +1666,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="82.85285285285286 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="82.69769769769769 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1689,9 +1689,9 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 77.4k out of 51m repositories</span>
+                                    <span class="gh">ranked 77.5k out of 50m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 535 stars</div>
+                                <div class="text">Maintaining a repository with 534 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2052,7 +2052,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Aug 2023, 03:38:40 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 22 Aug 2023, 04:17:46 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
