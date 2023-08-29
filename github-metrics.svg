@@ -1587,7 +1587,7 @@
                         <h3>Total stargazers</h3>
                         <div class="chart-bars">
                             <div class="entry">
-                                <span class="value">534</span>
+                                <span class="value">533</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 16
                                 <div class="bottom">Aug.</div>
@@ -1598,7 +1598,7 @@
                                 17
                             </div>
                             <div class="entry">
-                                <span class="value">535</span>
+                                <span class="value">534</span>
                                 <div class="bar" style="height: 12px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 18
                             </div>
@@ -1608,17 +1608,17 @@
                                 19
                             </div>
                             <div class="entry">
-                                <span class="value">536</span>
+                                <span class="value">535</span>
                                 <div class="bar" style="height: 21.5px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 20
                             </div>
                             <div class="entry">
-                                <span class="value">537</span>
+                                <span class="value">536</span>
                                 <div class="bar" style="height: 31px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 21
                             </div>
                             <div class="entry">
-                                <span class="value">538</span>
+                                <span class="value">537</span>
                                 <div class="bar" style="height: 40.5px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 22
                             </div>
@@ -1648,7 +1648,7 @@
                                 27
                             </div>
                             <div class="entry">
-                                <span class="value">539</span>
+                                <span class="value">538</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 28
                             </div>
@@ -1823,7 +1823,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 131k out of 59m repositories</span>
+                                    <span class="gh">ranked 131k out of 49m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 90 times</div>
                             </div>
@@ -1870,7 +1870,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="83.00800800800802 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="82.85285285285286 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1893,9 +1893,9 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 77.4k out of 59m repositories</span>
+                                    <span class="gh">ranked 77.6k out of 49m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 536 stars</div>
+                                <div class="text">Maintaining a repository with 535 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1933,7 +1933,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 7.94m out of 118m users</span>
+                                    <span class="gh">ranked 7.94m out of 116m users</span>
                                 </div>
                                 <div class="text">Published 7 public repositories</div>
                             </div>
@@ -2020,7 +2020,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 909k out of 118m users</span>
+                                    <span class="gh">ranked 909k out of 116m users</span>
                                 </div>
                                 <div class="text">Followed by 14 users</div>
                             </div>
@@ -2256,7 +2256,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Aug 2023, 09:13:45 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 29 Aug 2023, 10:34:56 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
