@@ -1891,7 +1891,7 @@ Enhancement: improved sidebar title questioning prompt.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 130k out of 50m repositories</span>
+                                    <span class="gh">ranked 130k out of 66m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 91 times</div>
                             </div>
@@ -1961,7 +1961,7 @@ Enhancement: improved sidebar title questioning prompt.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 77.2k out of 50m repositories</span>
+                                    <span class="gh">ranked 77.2k out of 66m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 539 stars</div>
                             </div>
@@ -2324,7 +2324,7 @@ Enhancement: improved sidebar title questioning prompt.</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Sept 2023, 13:39:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 3 Sept 2023, 14:21:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
