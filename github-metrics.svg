@@ -1624,7 +1624,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 129k out of 57.7m repositories</span>
+                                    <span class="gh">ranked 121k out of 59.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 95 times</div>
                             </div>
@@ -1694,7 +1694,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 72.1k out of 57.7m repositories</span>
+                                    <span class="gh">ranked 76.7k out of 59.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 560 stars</div>
                             </div>
@@ -1853,7 +1853,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 945k out of 125m users</span>
+                                    <span class="gh">ranked 946k out of 125m users</span>
                                 </div>
                                 <div class="text">Followed by 14 users</div>
                             </div>
@@ -2093,7 +2093,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Nov 2023, 22:39:36 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 21 Nov 2023, 23:19:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
