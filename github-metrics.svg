@@ -1586,13 +1586,13 @@
                         <h3>Total stargazers</h3>
                         <div class="chart-bars">
                             <div class="entry">
-                                <span class="value">569</span>
+                                <span class="value">570</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 7
                                 <div class="bottom">Dec.</div>
                             </div>
                             <div class="entry">
-                                <span class="value">570</span>
+                                <span class="value">571</span>
                                 <div class="bar" style="height: 18.333333333333332px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 8
                             </div>
@@ -1617,7 +1617,7 @@
                                 12
                             </div>
                             <div class="entry">
-                                <span class="value">571</span>
+                                <span class="value">572</span>
                                 <div class="bar" style="height: 34.166666666666664px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 13
                             </div>
@@ -1647,7 +1647,7 @@
                                 18
                             </div>
                             <div class="entry">
-                                <span class="value">572</span>
+                                <span class="value">573</span>
                                 <div class="bar" style="height: 49.99999999999999px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 19
                             </div>
@@ -1881,7 +1881,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 127k out of 75.6m repositories</span>
+                                    <span class="gh">ranked 127k out of 60m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 97 times</div>
                             </div>
@@ -1928,7 +1928,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="87.97297297297297 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="88.12812812812813 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1951,9 +1951,9 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 76.5k out of 75.6m repositories</span>
+                                    <span class="gh">ranked 76.4k out of 60m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 568 stars</div>
+                                <div class="text">Maintaining a repository with 569 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2350,7 +2350,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Dec 2023, 12:18:20 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 20 Dec 2023, 12:38:15 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
