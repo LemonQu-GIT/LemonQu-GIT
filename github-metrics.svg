@@ -1686,7 +1686,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 133k out of 241m repositories</span>
+                                    <span class="gh">ranked 133k out of 240m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 101 times</div>
                             </div>
@@ -1724,7 +1724,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 86k out of 241m repositories</span>
+                                    <span class="gh">ranked 86k out of 240m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 594 stars</div>
                             </div>
@@ -2082,7 +2082,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Feb 2025, 17:24:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 25 Feb 2025, 17:41:17 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
