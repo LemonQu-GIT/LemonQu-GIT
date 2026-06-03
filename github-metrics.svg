@@ -1480,7 +1480,7 @@
                         <h3>Total stargazers</h3>
                         <div class="chart-bars">
                             <div class="entry">
-                                <span class="value">719</span>
+                                <span class="value">718</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 21
                                 <div class="bottom">May</div>
@@ -1496,7 +1496,7 @@
                                 23
                             </div>
                             <div class="entry">
-                                <span class="value">720</span>
+                                <span class="value">719</span>
                                 <div class="bar" style="height: 26.25px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 24
                             </div>
@@ -1521,7 +1521,7 @@
                                 28
                             </div>
                             <div class="entry">
-                                <span class="value">721</span>
+                                <span class="value">720</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 29
                             </div>
@@ -1670,7 +1670,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Jun 2026, 19:07:41 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 4 Jun 2026, 00:26:16 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
